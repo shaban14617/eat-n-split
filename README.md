@@ -1,10 +1,10 @@
-## Spliting The dinner with friends
+## Splitting The dinner with friends
 
 ## Home 
 
 ![home](https://github.com/shaban14617/eat-n-split/assets/127901364/a4d2fa2e-7273-4d6e-9000-6ce948c19c19)
 
-# Spliting
+# Splitting
 
 ![Beforplitting](https://github.com/shaban14617/eat-n-split/assets/127901364/d969d3fc-66e5-4060-92ac-ab644d387d84)
 
